@@ -2,4 +2,4 @@ This process viewer uses system calls to read the /proc directory in Linux and p
 
 This implimentation uses the same mechanisms as utilities like `ps` or `top` (the Linux version of Windows Task Manager and macOS Activity Monitor).
 
-The output of this program is the exact same as running `ps -eo pid:5,ucmd).
+The output of this program is the exact same as running `ps -eo pid:5,ucmd)`.
